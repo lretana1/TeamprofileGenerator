@@ -30,7 +30,7 @@
   test
 
   ![projectimg](utils/Images/vid/ReadMeSnap.png?raw=true"projectimgpng")
-  The full movie file showing functionality of the application can be found [here](assets/Testing-app.webm)  
+  The full movie file showing functionality of the application can be found along with jest tests here: [Functionality](assets/Testing-app.webm) [Jest](assets/Passing-tests-jest.webm)
   
  
   
